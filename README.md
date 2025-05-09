@@ -1,6 +1,6 @@
-# 📥 Stream/SharePoint Video Downloader / Archiver
+# 📥 Stream/SharePoint Video Downloader
 
-A lightweight, no-install-needed tool for downloading Microsoft Stream or SharePoint-hosted recordings, including Teams Meetings, using only a `videomanifest` URL and `cookies.txt`.
+A lightweight, no-install-needed tool for downloading and archiving Microsoft Stream or SharePoint-hosted recordings, including Teams Meetings, using only a `videomanifest` URL and `cookies.txt`.
 
 ---
 
