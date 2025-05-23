@@ -37,8 +37,6 @@ This tool supports legitimate, compliance-aligned workflows for users with autho
 - A valid `cookies.txt` file exported from your browser using the Chrome extension outlined below.
 - A `videomanifest` URL from the Network tab in browser DevTools
 
-> ⏱️ The ETA timer is a bit unreliable as the speed fluctuates, it downloads first a copy of the video, then a copy of the audio, and then combines them with ffmpeg. Pay attention to the frags downloaded more than anything for estimating time, and just realize that it may take 5-15 minutes to download -- even on a stable, fast connection.
-
 ---
 
 ## 🪟 Screenshots
