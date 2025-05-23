@@ -32,8 +32,8 @@ This tool supports legitimate, compliance-aligned workflows for users with autho
 
 ## 🧰 Requirements
 
-- [`yt-dlp.exe`](https://github.com/yt-dlp/yt-dlp/releases) in the same folder, or the system PATH
-- [`ffmpeg.exe`](https://www.gyan.dev/ffmpeg/builds/) in the same folder, or the system PATH
+- [`yt-dlp.exe`](https://github.com/yt-dlp/yt-dlp/releases) in the same folder, or the system PATH (if using local folder, **unblock** the .exe)
+- [`ffmpeg.exe`](https://www.gyan.dev/ffmpeg/builds/) in the same folder, or the system PATH (if using local folder, **unblock** the .exe)
 - A valid `cookies.txt` file exported from your browser using the Chrome extension outlined below.
 - A `videomanifest` URL from the Network tab in browser DevTools
 
